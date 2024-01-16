@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 # Step to run this template
 
-- [Clone the repository usint this command `git clone https://github.com/DevShahidul/react-starter-tailwind-vite`]
-- [Run the command to install all packages `npm install`] 
-- [Run the command to run the template `npm run dev`]
+- [Clone the repository usint this command ```$ git clone https://github.com/DevShahidul/react-starter-tailwind-vite ```]
+- [Run the command to install all packages ```$ npm install ```] 
+- [Run the command to run the template ```$ npm run dev ```]
