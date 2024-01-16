@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Step to run this template
 
-### Clone the repository usint this command 
+### Clone the repository using this command 
 ```
 git clone https://github.com/DevShahidul/react-starter-tailwind-vite 
 ```
